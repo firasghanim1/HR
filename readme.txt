@@ -1,0 +1,13 @@
+dsc
+sc
+sa
+cs
+ac
+sa
+csa
+c
+sa
+csa
+c
+asc
+as
